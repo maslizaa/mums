@@ -1,7 +1,7 @@
-# OCBAS - Online Consultation Booking and Appointment System
+# OCBAS - Online Customer Booking Appointment System
 
 ## 📋 Deskripsi
-OCBAS adalah sistem booking dan appointment online untuk layanan konsultasi. Sistem ini memungkinkan pengguna untuk memesan layanan, mengatur appointment, dan mengelola feedback dengan mudah.
+OCBAS adalah sistem booking appointment online untuk spa. Sistem ini memungkinkan pengguna untuk memesan layanan, mengatur appointment, dan mengelola feedback dengan mudah.
 
 ## 🚀 Fitur Utama
 - **User Management**: Registrasi dan login pengguna
@@ -55,4 +55,4 @@ This project is open source and available under the [MIT License](LICENSE).
 Silakan buat pull request untuk kontribusi atau laporkan bug melalui issues.
 
 ---
-**Dibuat dengan ❤️ untuk memudahkan sistem booking appointment online** 
+**Dibuat dengan ❤️ untuk memudahkan sistem booking appointment online**
